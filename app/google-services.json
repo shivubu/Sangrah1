@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "996099398726",
+    "project_id": "sangrah-51892",
+    "storage_bucket": "sangrah-51892.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996099398726:android:8f15c24a1bdd90b9cf7e47",
+        "android_client_info": {
+          "package_name": "com.example.sangrah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDuMmNmjrevaXQVGEkaUO-C81ncnZDiJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
